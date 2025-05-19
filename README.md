@@ -26,11 +26,29 @@ Set up FoxyProxy, a Firefox extension, to route browser traffic through OWASP ZA
 **Task 5: Discovering Hidden Files and Directories**
 
 Used a dictionary list within OWASP ZAP to brute-force and discover hidden files and directories on the web server. This technique is useful for uncovering unlinked or sensitive resources.
+
+**Task 6: Crawling and Spidering Websites**
+
+Utilized ZAP’s spidering functionality to crawl the target website, identifying all accessible links and URLs. This helps in mapping the application’s structure and attack surface.
+
+**Task 7: Intercepting and Modifying Web Requests**
+
+Used OWASP ZAP as a web proxy to intercept, view, and modify HTTP requests. This task simulated how attackers might manipulate requests to provoke unexpected behavior or exploit vulnerabilities.
+
+
 <br />
 
 **Key Takeaways:**
 
-This lab enhanced my technical skills in using Wireshark for real-time network traffic analysis and detecting potential malicious activities. It provided practical experience in simulating network attacks and interpreting captured data, which is crucial for effective cybersecurity defense strategies. The ability to use Wireshark's powerful analysis tools prepares me for advanced network security monitoring and threat detection tasks.
+This lab provided practical experience in using OWASP ZAP for web application security testing. Key skills developed include:
+
+- Performing vulnerability scans and interpreting results
+- Configuring browser proxies for passive scanning
+- Discovering hidden resources using dictionary lists
+- Crawling websites to map attack surfaces
+- Intercepting and manipulating web traffic for deeper analysis
+  
+These skills are essential for anyone pursuing a career in cybersecurity or penetration testing.
 <br />
 
 
