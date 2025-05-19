@@ -110,16 +110,42 @@ Task 2: Scanning a Website for Vulnerabilities <br/>
 <br />
 <br />
   
+<p align="center">
 Task 3: Analyzing Scan Results and Generating Reports <br/>
 <br />
-<img src="https://i.imgur.com/qCuwzEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/Tsu5EZ5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/F3ds3kc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PdEm2jA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+<img src="https://i.imgur.com/t8gfST2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/jx28roy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/brDYiHX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/CIH89Bt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/909231k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Ws91gPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/zaG3I8Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/RCwSIz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
+<br />
 <br />
 <br />
 Task 4: Configuring FoxyProxy in Firefox  <br/>
