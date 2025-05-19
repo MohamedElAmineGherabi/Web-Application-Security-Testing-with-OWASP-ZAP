@@ -72,33 +72,44 @@ These skills are essential for anyone pursuing a career in cybersecurity or pene
 
 
 <p align="center">
-Task 1: Introduction to OWASP ZAP <br/>
-<br />
-<img src="https://i.imgur.com/ve9YWOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/ioFH947.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/gU9RCdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-  
-<br />
-<br />
 Task 2: Scanning a Website for Vulnerabilities <br/>
 <br />
-<img src="https://i.imgur.com/obUVbvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/67Ne8qH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/cNN2BFC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/scbJiKv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/h6bSKkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-
+<img src="https://i.imgur.com/cquaWlU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<img src="https://i.imgur.com/GeCNW0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/KhRbAyK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/bQVWPdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/GDRuIHw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/RE9vvXo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/e7lNt5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/dqLgi9c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/qBe49w5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+  
 Task 3: Analyzing Scan Results and Generating Reports <br/>
 <br />
 <img src="https://i.imgur.com/qCuwzEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
