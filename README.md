@@ -54,13 +54,15 @@ These skills are essential for anyone pursuing a career in cybersecurity or pene
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Attack Application: PS ATTACK ENGINE (Network TTPs) Used to simulate various network attacks.</b>
-- <b>Wireshark: Utilized for capturing and analyzing network traffic.</b> 
+- <b>OWASP ZAP: Used for scanning, crawling, intercepting, and analyzing web application traffic.</b>
+- <b>FoxyProxy: Firefox extension used to route browser traffic through ZAP.</b>
+- <b>Dictionary Lists: Used for brute-force discovery of hidden files and directories.</b> 
+
   
 
 <h2>Environments Used </h2>
 
-- <b>Linux Desktop Environment: The project was conducted in a Linux-based environment. This choice emphasizes a commitment to leveraging the powerful, versatile capabilities of Linux for network security tasks.
+- <b>Linux Desktop Environment: The lab was conducted in a Linux-based environment, emphasizing the use of open-source tools and platforms for cybersecurity tasks.
 
 </b>
 
