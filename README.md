@@ -72,7 +72,7 @@ These skills are essential for anyone pursuing a career in cybersecurity or pene
 
 
 <p align="center">
-Task 1: Getting Started in the Lab Environment <br/>
+Task 1: Introduction to OWASP ZAP <br/>
 <br />
 <img src="https://i.imgur.com/ve9YWOD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -85,7 +85,7 @@ Task 1: Getting Started in the Lab Environment <br/>
   
 <br />
 <br />
-Task 2: Using the Attack Application: PS ATTACK ENGINE (Network TTPs) <br/>
+Task 2: Scanning a Website for Vulnerabilities <br/>
 <br />
 <img src="https://i.imgur.com/obUVbvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -99,7 +99,7 @@ Task 2: Using the Attack Application: PS ATTACK ENGINE (Network TTPs) <br/>
 
 <br />
 <br />
-Task 3: Capturing Packets with Wireshark <br/>
+Task 3: Analyzing Scan Results and Generating Reports <br/>
 <br />
 <img src="https://i.imgur.com/qCuwzEx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -111,7 +111,7 @@ Task 3: Capturing Packets with Wireshark <br/>
 
 <br />
 <br />
-Task 4: Analyzing Network Attacks  <br/>
+Task 4: Configuring FoxyProxy in Firefox  <br/>
 <br />
 <img src="https://i.imgur.com/W2cai71.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -125,7 +125,7 @@ Task 4: Analyzing Network Attacks  <br/>
 
 <br />
 <br />
-Task 5: Reporting and Visualizing Findings  <br/>
+Task 5: Discovering Hidden Files and Directories  <br/>
 <br />
 <img src="https://i.imgur.com/RthwcTJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -152,6 +152,20 @@ Task 5: Reporting and Visualizing Findings  <br/>
 <br />
 <br />
 <br />
+Task 6: Crawling and Spidering Websites  <br/>
+<br />
+<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+
+Task 7: Intercepting and Modifying Web Requests  <br/>
+
+
+
+
+
+<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
