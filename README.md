@@ -182,52 +182,95 @@ Task 4: Configuring FoxyProxy in Firefox  <br/>
 <br />
 Task 5: Discovering Hidden Files and Directories  <br/>
 <br />
-<img src="https://i.imgur.com/RthwcTJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/chnDLEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/XfOHw8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GPO040c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/tyRux3P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I1uID1Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/wtItEdr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hUwdXx1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/GtE8vLV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p6jyvgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/mMnwneP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/g4xIhfp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yTstuRF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 <br />
 Task 6: Crawling and Spidering Websites  <br/>
 <br />
-<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A9nMCot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <br />
+<img src="https://i.imgur.com/hgWzd5P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <br />
+<img src="https://i.imgur.com/ldz4bSN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <br />
+<img src="https://i.imgur.com/hNaiE5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+<img src="https://i.imgur.com/3PeRKNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+
+<br />
+<br />
+<br />
 Task 7: Intercepting and Modifying Web Requests  <br/>
+<br />
+<br />
+<img src="https://i.imgur.com/MwC7DM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Hk9qN7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/2jITYlN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/7pPQ2r2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Rd7a0SD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/KM0aUIf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/gZUsu6I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/qcR7QZj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/MG4J5OI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/8e4UYPZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/waVocN0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/n8NYKRe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/iIDydjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
-
-
-<img src="https://i.imgur.com/YBBDdBh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
-<img src="https://i.imgur.com/w9v7ttM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cZjZ1uC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/ViW4aAy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
