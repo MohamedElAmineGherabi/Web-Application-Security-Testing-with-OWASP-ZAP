@@ -52,7 +52,7 @@ These skills are essential for anyone pursuing a career in cybersecurity or pene
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Softwares and Utilities Used</h2>
 
 - <b>OWASP ZAP: Used for scanning, crawling, intercepting, and analyzing web application traffic.</b>
 - <b>FoxyProxy: Firefox extension used to route browser traffic through ZAP.</b>
@@ -264,7 +264,8 @@ Task 7: Intercepting and Modifying Web Requests  <br/>
 <img src="https://i.imgur.com/iIDydjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-
+<br />
+<br />
 <br />
 <br />
 <br />
